@@ -1,0 +1,24 @@
+{
+  "name": "@lalosh/text-selection",
+  "version": "1.0.0",
+  "description": "Get the text selected by the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalosh/text-selection.git"
+  },
+  "keywords": [
+    "JS",
+    "Front-end",
+    "basics"
+  ],
+  "author": "Louay Al-osh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalosh/text-selection/issues"
+  },
+  "homepage": "https://github.com/lalosh/text-selection#readme"
+}
